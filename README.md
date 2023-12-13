@@ -69,4 +69,4 @@ The [licenses](licenses) folder is convenient to distribute along with the game.
 
 The founder of the project is [Lasse Öörni](https://github.com/cadaver). 
 [Yao Wei Tjong](https://github.com/weitjong), [asterj](https://github.com/aster2013) and many other developers also 
-made a huge contribution to the development of the project, a list of which can be found here. [тут](https://github.com/urho3d/Urho3D/graphs/contributors).
+made a huge contribution to the development of the project, a list of which can be found [here](https://github.com/urho3d/Urho3D/graphs/contributors).
